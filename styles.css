@@ -14,7 +14,7 @@
 .header__title {
     margin: 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 120px;
+    font-size: 6rem;
     text-align: justify;
     color: #fff;
     transform: scaleY(3); /* Stretches text 1.5 times */
