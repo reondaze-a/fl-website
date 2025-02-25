@@ -1,0 +1,26 @@
+.header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    background: #ffa500;
+    border-radius: 0 0 10px 10px;
+    position: fixed;
+    box-sizing: border-box;
+}
+
+.header__title-box {
+    display: flex;
+    width: 100%;
+}
+
+.header__title {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 3rem;
+    text-align: justify;
+    color: #fff;
+}
