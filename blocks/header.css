@@ -5,11 +5,11 @@
     align-items: center;
     padding: 10px 10px;
     background: #ffffff;
+    box-sizing: border-box;
 }
 
 .header__title-box {
     display: flex;
-    width: 100%;
     align-items: center;
     gap: 12px;
 }
