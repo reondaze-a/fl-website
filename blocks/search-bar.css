@@ -1,6 +1,6 @@
 .search-bar {
     display: flex;
-    width: 25%;
+    width: 27%;
 }
 
 .search-bar-icon {
@@ -10,9 +10,9 @@
 
 .search-bar__input-label {
     display: flex;
-    padding: 8px 6px;
+    padding: 4px 6px;
     border-radius: 20px;
-    border: 1.5px solid #21212166;
+    border: 2.5px solid #21212166;
     align-items: center;
     width: 100%;
     transition: border-color 0.2s ease-in-out;

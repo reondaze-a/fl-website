@@ -1,0 +1,7 @@
+.welcome {
+    background-image: url("../images/main-header-picture.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
